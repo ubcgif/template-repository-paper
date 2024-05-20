@@ -42,7 +42,7 @@ You can preview the build using MyST. Please have MyST installed ([instructions]
 myst start
 ```
 
-and a preview will launch, usually from `http://localhost:3001`
+and a preview will launch, usually from `http://localhost:3000`
 
 Also, whenever you create a pull-request to the repo, curvenote will build you a preview 🚀. A link will be added to the comment thread that looks something like this 
 
