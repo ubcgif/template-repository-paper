@@ -2,7 +2,8 @@
 version: 1
 project:
   # id: ubcgif-YEAR-AUTHORS-JOURNAL
-  # title: TITLE OF PAPER
+  title: TITLE OF PAPER
+  # subtitle: SUBTITLE HERE
   # description: SHORT DESCRIPTION HERE
   authors:
     # - name: AUTHOR 1
